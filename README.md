@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dawn6sky
+- 👋 Hi, I’m @Dawn6sky, just call me RK :D
 - 👀 I’m interested in AI and ROS.
 - 🌱 I’m currently learning facial expression recognition, ROS speech recognition and Arduino.
 - 💞️ I’m looking for opportunities as an AI intern.
