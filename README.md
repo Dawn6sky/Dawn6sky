@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawn6sky, just call me RK :D
-- 👀 I’m interested in AI and ROS.
-- 🌱 I’m currently learning facial expression recognition, ROS speech recognition and Arduino.
+- 👀 I’m interested in AI and IoT.
+- 🌱 I’m currently learning facial expression & action recognition, and Arduino.
 - 💞️ I’m looking for opportunities as an AI intern.
 - 📫 Reach me on https://www.linkedin.com/in/loke-r-3311a6140/
 
